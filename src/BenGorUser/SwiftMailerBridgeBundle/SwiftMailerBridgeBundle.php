@@ -10,7 +10,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BenGorUser\SwiftMailerBridge;
+namespace BenGorUser\SwiftMailerBridgeBundle;
 
 use BenGorUser\UserBundle\DependentBenGorUserBundle;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
