@@ -8,7 +8,8 @@
 [![Latest Unstable Version](https://poser.pugx.org/bengor-user/swift-mailer-bridge-bundle/v/unstable.svg)](https://packagist.org/packages/bengor-user/swift-mailer-bridge-bundle/)
 
 ##Requirements
-PHP >= 5.5
+PHP >= 5.5</br>
+Symfony >= 2.8 
 
 ##Installation
 The easiest way to install this component is using [Composer][6]
